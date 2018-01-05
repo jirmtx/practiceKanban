@@ -29,7 +29,7 @@ h3{
 }
 
 .deleteTaskButton {
-  position: abosolute; 
+  position: absolute; 
   top: 0; 
   right: 0;
   background-color: transparent;
